@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.navtesh64.firstplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.navtesh64.firstplugin.MyBundle
 
 class MyApplicationService {
 
